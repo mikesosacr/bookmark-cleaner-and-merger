@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de archivo README para tu aplicación:
-
----
-
 # Limpieza de Marcadores
 
 ## Descripción
