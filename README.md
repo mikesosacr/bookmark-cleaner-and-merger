@@ -23,7 +23,7 @@ La aplicación es útil para usuarios que almacenan muchos marcadores en sus nav
 
 ## Instalación
 
-1. **Descargar la aplicación:** Obtén el archivo `limpiar_marcadores.ps1` y el archivo `limpiar_marcadores.bat` de este repositorio.
+1. **Descargar la carpeta entera de la aplicación:** Obtén el archivo `limpiar_marcadores.ps1` y el archivo `limpiar_marcadores.bat` y `icono.ico`de este repositorio.
 2. **Ejecutar la aplicación:**
    - Haz doble clic en el archivo `limpiar_marcadores.bat` para ejecutar el programa.
    - Se abrirá la ventana de PowerShell y se lanzará la interfaz gráfica de la aplicación.
